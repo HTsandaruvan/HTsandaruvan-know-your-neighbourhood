@@ -107,20 +107,20 @@ npm start
 <p>Home Page</p>
 <img src="./Images/Home.png" alt="home_page" width="50%"/>
 <p>Register</p>
-<img src="./images/register.png" alt="register" width="50%"/>
+<img src="./Images/Register.png" alt="register" width="50%"/>
 <p>Login</p>
-<img src="./images/login.png" alt="login" width="50%"/>
+<img src="./Images/Login.png" alt="login" width="50%"/>
 <p>Profile page</p>
-<img src="./images/profile.png" alt="profile" width="50%"/>
-<p>Edit Profile</p>
-<img src="./images/edit-profile.png" alt="profile" width="50%"/>
+<img src="./Images/Profile.png" alt="profile" width="50%"/>
 <p>Stores</p>
-<img src="./images/stores.png" alt="profile" width="50%"/>
+<img src="./Images/SearchStore.png" alt="profile" width="50%"/>
 <p>Store Detail</p>
-<img src="./images/store-detail.png" alt="profile" width="50%"/>
+<img src="./images/ViewStore.png" alt="profile" width="50%"/>
 <p>Add Store</p>
-<img src="./images/add-store.png" alt="profile" width="50%"/>
+<img src="./Images/AddStore.png" alt="profile" width="50%"/>
 <p>About Page</p>
-<img src="./images/about.png" alt="profile" width="50%"/>
+<img src="./Images/AboutUs.png" alt="profile" width="50%"/>
 <p>Contact Page</p>
-<img src="./images/contact.png" alt="profile" width="50%"/>
+<img src="./Images/ContactUs.png" alt="profile" width="50%"/>
+<p>Terms and Condition Page</p>
+<img src="./Images/Terms.png" alt="profile" width="50%"/>
