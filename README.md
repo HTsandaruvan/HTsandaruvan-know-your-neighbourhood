@@ -105,7 +105,7 @@ npm start
 ## Screenshot
 
 <p>Home Page</p>
-<img src="./images/Home.png" alt="home_page" width="50%"/>
+<img src="./Images/Home.png" alt="home_page" width="50%"/>
 <p>Register</p>
 <img src="./images/register.png" alt="register" width="50%"/>
 <p>Login</p>
