@@ -115,7 +115,7 @@ npm start
 <p>Stores</p>
 <img src="./Images/SearchStore.png" alt="profile" width="50%"/>
 <p>Store Detail</p>
-<img src="./images/ViewStore.png" alt="profile" width="50%"/>
+<img src="./Images/ViewStore.png" alt="profile" width="50%"/>
 <p>Add Store</p>
 <img src="./Images/AddStore.png" alt="profile" width="50%"/>
 <p>About Page</p>
